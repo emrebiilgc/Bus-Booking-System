@@ -1,2 +1,5 @@
 # Bus-Booking-System
 Online ticketing system for buses
+The Bus Voyage Management System is an object-oriented application designed to streamline the operations of bus ticketing and voyage management. This system enables users to perform essential functions such as initializing bus voyages, selling and refunding tickets, viewing voyage details, and generating comprehensive reports. With support for three types of buses—Standard (2+2), Premium (1+2), and Minibus (2)—it provides flexibility in seat configurations and ticket pricing.
+
+Key features include real-time error handling for invalid commands, customizable refund policies, and the ability to view and cancel voyages while maintaining revenue calculations. The system ensures efficiency and accuracy in managing bus seat allocations and transactions, utilizing the core principles of Object-Oriented Programming: abstraction, encapsulation, inheritance, and polymorphism. Additionally, clean code practices and a JavaDoc commenting style enhance code readability and maintainability, making it both robust and user-friendly.
